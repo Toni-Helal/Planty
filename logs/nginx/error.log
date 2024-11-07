@@ -1,0 +1,1 @@
+2024/11/07 21:20:44 [error] 10428#35856: *394 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "POST /wp-admin/admin-ajax.php HTTP/1.0", upstream: "fastcgi://127.0.0.1:10020", host: "planty.local", referrer: "http://planty.local/wp-admin/options-general.php"
